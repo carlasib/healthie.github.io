@@ -1,0 +1,21 @@
+.banner {
+  height: 70vh;
+  background: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url("banner.jpg");
+  background-size: cover;
+  background-attachment: fixed;
+  background-position: center;
+}
+.img-detail {
+  background-image: ;
+  height: 80vh;
+  background-size: cover;
+  background-attachment: fixed;
+  background-position: center;
+}
+
+.warna1 {
+  background-color: aquamarine;
+}
+.list-group a {
+  text-decoration: none;
+}

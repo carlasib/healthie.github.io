@@ -1,0 +1,14 @@
+.warning {
+  background-color: #f37878;
+}
+
+.banner {
+  height: 80hv;
+  background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("banner.jpg");
+}
+
+.coba {
+  height: 100px;
+  width: 100px;
+  color: #f37878;
+}
